@@ -8,14 +8,14 @@ This project processes EEG and EOG data for cognitive and emotional state analys
 - Libraries: numpy pandas scipy scikit-learn imbalanced-learn seaborn matplotlib
   
 ## Sample Files Structure
-/data/
-eeg_features.mat
-eog_features.mat
-labels.mat
-/outputs/
-preprocessed_features.csv
-cleaned_features.csv
-brain_cognitive_emotion.ipynb
+-/data/
+  -eeg_features.mat
+  -eog_features.mat
+  -labels.mat
+-/outputs/
+  -preprocessed_features.csv
+  -cleaned_features.csv
+-brain_cognitive_emotion.ipynb
 
 
 ## Usage
